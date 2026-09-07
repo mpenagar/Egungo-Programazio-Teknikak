@@ -5,7 +5,7 @@
 
 ### Notebook-ekin online lan egiteko
 
-- <a href="https://colab.research.google.com/github/mpenagar/Egungo-Programazio-Teknikak/blob/master/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+- <a href="https://colab.research.google.com/github/mpenagar/Egungo-Programazio-Teknikak/blob/master/0-Index.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### Kodea exekutatu gabe, edukia ikusteko
 
