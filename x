@@ -1,0 +1,9 @@
+0    warm
+1    warm
+2     hot
+3     hot
+4    cold
+5    cold
+6     hot
+7    cold
+8    cold
